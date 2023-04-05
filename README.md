@@ -1,8 +1,10 @@
 ## Hey, there, what's up?
 
-<div style="display: flex; justify-content: space-between">
+
+<div>
+  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=uryeln&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uryeln&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uryeln&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <br>
