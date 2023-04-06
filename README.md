@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 GitHub Stats⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  🚀Top Languages</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=uryeln&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 45%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uryeln&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 45%;" />
