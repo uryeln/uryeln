@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"> 
-      <h1 align="center"> 💻 Tech Stack: </h1>
+      <h1 align="center">💻 Tech Stack</h1>
       <img align="center" height="50" width="40" alt="html-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
       <img align="center" height="50" width="40" alt="css-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
       <img align="center" height="50" width="40" alt="java-icon" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
