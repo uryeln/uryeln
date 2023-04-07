@@ -28,6 +28,3 @@
   </div>
   
 ![Snake animation](github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uryeln&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
